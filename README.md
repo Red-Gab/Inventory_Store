@@ -5,7 +5,8 @@ This API supports full CRUD operations for managing products, suppliers, and ord
 
 # 🌍 Base URL
 
-https://inventory-store-41q6.onrender.com
+https://inventory-store-2.onrender.com
+
 
 # 📦 Products
 
